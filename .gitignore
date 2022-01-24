@@ -1,0 +1,7 @@
+__pycache__
+SocialNetwork/__pycache__
+base/__pycache__
+*.py[cod]
+*$py.class
+
+venv
